@@ -1,0 +1,4 @@
+﻿  binary to decimal edu tech.cpp
+D:\PROJECTS FOR SEMESTER 1\binary to decimal edu tech\binary to decimal edu tech\binary to decimal edu tech.cpp(11,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\PROJECTS FOR SEMESTER 1\binary to decimal edu tech\binary to decimal edu tech\binary to decimal edu tech.cpp(13,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  binary to decimal edu tech.vcxproj -> D:\PROJECTS FOR SEMESTER 1\binary to decimal edu tech\x64\Debug\binary to decimal edu tech.exe
